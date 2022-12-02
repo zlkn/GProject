@@ -1,0 +1,11 @@
+{
+    "uuid": "GProject@yzolk.in",
+    "name": "GProject",
+    "description": "Displays current google cloud project",
+    "version": 1,
+    "shell-version": [
+        "3.38",
+        "42"
+    ],
+    "url": "https://github.com/bernot-dev/kubectl-context"
+}
